@@ -1,12 +1,17 @@
 ---
 layout: post
-title: "Python Post" ## 타이틀
-date: 2012-05-22
-excerpt: "A ton of text to test readability." ## 설명
-tags: [sample post, readability, test]
-category : Python  ## 카테고리
+title: "[Jekyll] Github IO 블로그 시작하기(1)"
+date: 2021-05-29
+excerpt: "정적 웹사이트 생성기 Jekyll을 이용한 Github IO 블로그 만들기"
+tags: [Github, Io, gitblog, 깃허브, jekyll, 블로그, 정적, 정적웹, 시작, github io, 깃 블로그, 블로그, 만들기, 블로그, 만드는법]
+category : Github
 comments: true
 ---
+
+# [Jekyll] Github IO 블로그 시작하기(1)
+
+### 1. 
+
 
 Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Python Post" ## 타이틀
+title: "etc Testing Readability with a Bunch of Text"
 date: 2012-05-22
-excerpt: "A ton of text to test readability." ## 설명
+excerpt: "A ton of text to test readability."
+category : ETC
 tags: [sample post, readability, test]
-category : Python  ## 카테고리
 comments: true
 ---
 
