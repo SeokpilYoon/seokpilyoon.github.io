@@ -36,9 +36,8 @@ comments: true
 	<img src="/img/project/schedule.png">
 	<figcaption>Schedule</figcaption>
 </figure>
-  
-#### 
-#### 
+
+# 　
 
 ## 3. UI Concept
 
