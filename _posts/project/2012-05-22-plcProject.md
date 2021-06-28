@@ -36,7 +36,7 @@ comments: true
 	<img src="/img/project/schedule.PNG">
 	<figcaption>Schedule</figcaption>
 </figure>
-
+  
 #### 
 #### 
 
@@ -57,13 +57,13 @@ comments: true
 
 
 <figure class="half">
-	<img src="/img/project/ui1.PNG">
-	<img src="/img/project/ui_dashboard.PNG">
+	<img src="/img/project/uiStatus.PNG">
+	<img src="/img/project/uiDashboard.PNG">
 </figure>
 
 <figure class="half">
-	<img src="/img/project/ui_graph.PNG">
-	<img src="/img/project/ui_static.PNG">
+	<img src="/img/project/uiGraph.PNG">
+	<img src="/img/project/uiStatic.PNG">
     <figcaption>UI Design</figcaption>
 </figure>
 
