@@ -33,7 +33,7 @@ comments: true
 ## 2. 프로그램 개발 일정
   
 <figure>
-	<img src="/img/project/schedule.PNG">
+	<img src="/img/project/schedule.png">
 	<figcaption>Schedule</figcaption>
 </figure>
   
@@ -49,21 +49,14 @@ comments: true
  제공하는 컨텐츠가 적음에도 하기와 같이 구성한 이유는 추후 제작하게 될 UI나 현재 프로그램의 Contents 추가 요청 시 좀 더 쉽게 대응하기 위해 이처럼 구성하였다.
 
 
-<figure class ="half">
-	<img src="/img/project/systemConfigImage.PNG">
-	<img src="/img/project/systemConfigImage.PNG">
-	<figcaption>System Configuration</figcaption>
-</figure>
-
-
 <figure class="half">
-	<img src="/img/project/uiStatus.PNG">
-	<img src="/img/project/uiDashboard.PNG">
+	<img src="/img/project/uiStatus.png">
+	<img src="/img/project/uiDashboard.png">
 </figure>
 
 <figure class="half">
-	<img src="/img/project/uiGraph.PNG">
-	<img src="/img/project/uiStatic.PNG">
+	<img src="/img/project/uiGraph.png">
+	<img src="/img/project/uiStatic.png">
     <figcaption>UI Design</figcaption>
 </figure>
 
