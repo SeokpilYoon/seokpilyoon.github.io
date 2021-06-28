@@ -11,13 +11,14 @@ comments: true
 # 1. Project 개요
 
  Mitsubishi PLC와 통신하여 Algorithm은 Python으로 UI는 C# Winform으로 구성한 Application을 제작하였다.  
- 설비 및 측정 데이터를 기반으로 데이터를 분석하고, 분석 결과를 기반으로 로직을 구성하여 분석 결과를 알려주는 프로그램이다.  
- 시스템 구성은 아래 사진과 같은데, 아래처럼 구성한 이유는 다음과 같다.  
-  
+ 설비 및 측정 데이터를 기반으로 데이터를 분석하고, 분석 결과를 기반으로 로직을 구성하여 분석 결과를 알려주는 프로그램이다.
+
 <figure>
 	<img src="/img/project/systemConfigImage.PNG">
 	<figcaption>System Configuration</figcaption>
 </figure>
+
+이처럼 시스템을 구성한 이유는 여러가지가 있지만 대표적인 이유는 아래와 같다.
   
 ## Q) 왜 C#을 사용했는가?
   1. MX Component에서 제공하는 32bit dll을 사용하기 위해 (MELSEC에서 32bit dll만 제공)
@@ -48,6 +49,10 @@ comments: true
 
  제공하는 컨텐츠가 적음에도 하기와 같이 구성한 이유는 추후 제작하게 될 UI나 현재 프로그램의 Contents 추가 요청 시 좀 더 쉽게 대응하기 위해 이처럼 구성하였다.
 
+<figure>
+	<img src="/img/project/ui1.png">
+	<figcaption>UI Description</figcaption>
+</figure>
 
 <figure class="half">
 	<img src="/img/project/uiStatus.png">
@@ -57,6 +62,6 @@ comments: true
 <figure class="half">
 	<img src="/img/project/uiGraph.png">
 	<img src="/img/project/uiStatic.png">
-    <figcaption>UI Design</figcaption>
+    <figcaption>UI Pages</figcaption>
 </figure>
 
