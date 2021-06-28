@@ -33,6 +33,7 @@ comments: true
 ## 2. 프로그램 개발 일정
 
 <figure>
+	<img src="/img/project/systemConfigImage.PNG">
 	<img src="/img/project/schedule.PNG">
 	<figcaption>Schedule</figcaption>
 </figure>
